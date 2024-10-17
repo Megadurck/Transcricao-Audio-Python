@@ -49,6 +49,12 @@ Aqui está um exemplo de como executar o programa:
 3. Execute o programa e selecione um arquivo de áudio.
 4. A transcrição será gerada e salva em um arquivo Word.
 
+## Reconhecimentos
+
+- [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) para reconhecimento de fala.
+- [Pydub](https://github.com/jiaaro/pydub) para manipulação de áudio.
+- [python-docx](https://python-docx.readthedocs.io/en/latest/) para criação de arquivos Word.
+
 ## Contribuição
 
 Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.
@@ -56,8 +62,6 @@ Contribuições são bem-vindas! Se você tiver sugestões ou melhorias, sinta-s
 ## Licença
 
 Este projeto está licenciado sob a MIT License. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
-
 
 ## Contato
 

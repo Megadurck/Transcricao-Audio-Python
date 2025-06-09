@@ -29,11 +29,14 @@ Ideal para jornalistas, estudantes, profissionais da saúde e qualquer pessoa qu
 ## Instalação
 Para instalar as dependências, rode no terminal:
 ```bash
-pip install -r requirements.txt
+pip install -r requirements.txt 
+```
 
 ## Contato
 
 - Email: romariodurck@gmail.com  
 - LinkedIn: [https://www.linkedin.com/in/romariodurck](https://www.linkedin.com/in/romariodurck)  
 - Repositório do projeto no GitHub: [https://github.com/Megadurck/Transcricao-Audio-Python](https://github.com/Megadurck/Transcricao-Audio-Python)
+
+
   

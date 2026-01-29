@@ -37,7 +37,9 @@ python -m venv venv
 .\venv\Scripts\activate
 
 2. Instale as dependências:
+```bash
 pip install -r requirements.txt
+```
 
 3. Certifique-se de que o FFmpeg esteja na pasta correta e configurado no PATH (já definido no main.py).
 

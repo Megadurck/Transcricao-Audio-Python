@@ -30,7 +30,7 @@ python main.py
 
 6. O arquivo Word com a transcrição será salvo no local escolhido.
 
-Instalação
+## Instalação
 
 1. Crie e ative um ambiente virtual:
 python -m venv venv
@@ -41,10 +41,10 @@ pip install -r requirements.txt
 
 3. Certifique-se de que o FFmpeg esteja na pasta correta e configurado no PATH (já definido no main.py).
 
-Contato
+## Contato
 
-Email: romariodurck@gmail.com
+- Email: romariodurck@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/romariodurck
+- LinkedIn: https://www.linkedin.com/in/romariodurck
 
-Repositório no GitHub: https://github.com/Megadurck/Transcricao-Audio-Python
+- Repositório no GitHub: https://github.com/Megadurck/Transcricao-Audio-Python

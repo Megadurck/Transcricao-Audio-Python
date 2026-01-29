@@ -14,21 +14,6 @@ Este projeto é um transcritor de áudio moderno, que permite converter arquivos
 - [SpeechRecognition](https://pypi.org/project/SpeechRecognition/) – reconhecimento de fala  
 - [Pydub](https://pypi.org/project/pydub/) – manipulação de áudio  
 - [python-docx](https://python-docx.readthedocs.io/en/latest/) – criação de arquivos Word
-## Estrutura do Projeto
-Programa de Transcrever/
-│
-├─ audio_transcrever/
-│ ├─ init.py
-│ ├─ gui.py # UI PyQt6 (TranscricaoUI)
-│ └─ transcrever.py # lógica de transcrição
-│
-├─ ffmpeg-8.0.1/
-│ └─ bin/
-│ ├─ ffmpeg.exe
-│ └─ ffprobe.exe
-│
-├─ main.py # executa a UI
-└─ venv/ # ambiente virtual
 
 ## Exemplo de Uso
 1. Execute o programa:  

@@ -1,0 +1,4 @@
+SpeechRecognition>=3.8.1
+pydub>=0.25.1
+python-docx>=0.8.11
+PyQt6>=6.5.0
